@@ -1,0 +1,164 @@
+{
+  "ships": [
+    {
+      "name": "HM-MK-I",
+      "class": "MK-I",
+      "type": "HM-MK-I",
+      "manufacturer": "Hermes",
+      "maximum cargo": "50",
+      "plating": "20",
+      "speed": "3",
+      "weapons": "5"
+    },
+    {
+      "name": "EM-MK-I",
+      "class": "MK-I",
+      "type": "EM-MK-I",
+      "manufacturer": "Electrum",
+      "maximum cargo": "50",
+      "plating": "5",
+      "speed": "2",
+      "weapons": "10"
+    },
+    {
+      "name": "ZA-MK-III",
+      "class": "MK-III",
+      "type": "ZA-MK-III",
+      "manufacturer": "Zetra",
+      "maximum cargo": "300",
+      "plating": "10",
+      "speed": "2",
+      "weapons": "10"
+    },
+    {
+      "name": "ZA-MK-II",
+      "class": "MK-II",
+      "type": "ZA-MK-II",
+      "manufacturer": "Zetra",
+      "maximum cargo": "100",
+      "plating": "5",
+      "speed": "2",
+      "weapons": "5"
+    },
+    {
+      "name": "GR-MK-I",
+      "class": "MK-I",
+      "type": "GR-MK-I",
+      "manufacturer": "Gravager",
+      "maximum cargo": "100",
+      "plating": "10",
+      "speed": "1",
+      "weapons": "5"
+    },
+    {
+      "name": "DR-MK-I",
+      "class": "MK-I",
+      "type": "DR-MK-I",
+      "manufacturer": "Drades",
+      "maximum cargo": "2000",
+      "plating": "10",
+      "speed": "1",
+      "weapons": "5"
+    },
+    {
+      "name": "JW-MK-II",
+      "class": "MK-II",
+      "type": "JW-MK-II",
+      "manufacturer": "Jackshaw",
+      "maximum cargo": "100",
+      "plating": "10",
+      "speed": "2",
+      "weapons": "10"
+    },
+    {
+      "name": "JW-MK-I",
+      "class": "MK-I",
+      "type": "JW-MK-I",
+      "manufacturer": "Jackshaw",
+      "maximum cargo": "50",
+      "plating": "5",
+      "speed": "1",
+      "weapons": "5"
+    },
+    {
+      "name": "TD-MK-I",
+      "class": "MK-I",
+      "type": "TD-MK-I",
+      "manufacturer": "Tiddalik",
+      "maximum cargo": "3000",
+      "plating": "10",
+      "speed": "2",
+      "weapons": "5"
+    },
+    {
+      "name": "HM-MK-III",
+      "class": "MK-III",
+      "type": "HM-MK-III",
+      "manufacturer": "Hermes",
+      "maximum cargo": "300",
+      "plating": "20",
+      "speed": "4",
+      "weapons": "5"
+    },
+    {
+      "name": "GR-MK-III",
+      "class": "MK-III",
+      "type": "GR-MK-III",
+      "manufacturer": "Gravager",
+      "maximum cargo": "500",
+      "plating": "10",
+      "speed": "1",
+      "weapons": "10"
+    },
+    {
+      "name": "GR-MK-II",
+      "class": "MK-II",
+      "type": "GR-MK-II",
+      "manufacturer": "Gravager",
+      "maximum cargo": "300",
+      "plating": "10",
+      "speed": "1",
+      "weapons": "5"
+    },
+    {
+      "name": "ZT-MK-II",
+      "class": "MK-II",
+      "type": "ZT-MK-II",
+      "manufacturer": "Zatashi",
+      "maximum cargo": "25",
+      "plating": "5",
+      "speed": "4",
+      "weapons": "5"
+    },
+    {
+      "name": "ZT-MK-I",
+      "class": "MK-I",
+      "type": "ZT-MK-I",
+      "manufacturer": "Zatashi",
+      "maximum cargo": "25",
+      "plating": "5",
+      "speed": "3",
+      "weapons": "5"
+    },
+    {
+      "name": "EM-MK-IV",
+      "class": "MK-IV",
+      "type": "EM-MK-IV",
+      "manufacturer": "Electrum",
+      "maximum cargo": "100",
+      "plating": "10",
+      "speed": "4",
+      "weapons": "20"
+    },
+    {
+      "name": "EM-MK-III",
+      "class": "MK-III",
+      "type": "EM-MK-III",
+      "manufacturer": "Electrum",
+      "maximum cargo": "100",
+      "plating": "10",
+      "speed": "3",
+      "weapons": "15"
+    }
+  ]
+}

@@ -1,0 +1,266 @@
+{
+  "systems": [
+    {
+      "name": "Niri A7",
+      "symbol": "NA7",
+      "planets": [
+        {
+          "symbol": "NA7-GH",
+          "x": -14,
+          "y": 38,
+          "name": "Vuclite",
+          "type": "Planet"
+        },
+        {
+          "symbol": "NA7-TH",
+          "x": -64,
+          "y": 9,
+          "name": "Thegaturn",
+          "type": "Planet"
+        },
+        {
+          "symbol": "NA7-W-ZY1",
+          "x": -13,
+          "y": 116,
+          "name": "Wormhole",
+          "type": "Wormhole"
+        }
+      ]
+    },
+    {
+      "name": "Omicron Eridani",
+      "symbol": "OE",
+      "planets": [
+        {
+          "symbol": "OE-PM",
+          "x": -19,
+          "y": 3,
+          "name": "Prime",
+          "type": "Planet"
+        },
+        {
+          "symbol": "OE-PM-TR",
+          "x": -20,
+          "y": 5,
+          "name": "Tritus",
+          "type": "Moon"
+        },
+        {
+          "symbol": "OE-CR",
+          "x": 4,
+          "y": -13,
+          "name": "Carth",
+          "type": "Planet"
+        },
+        {
+          "symbol": "OE-KO",
+          "x": -49,
+          "y": 1,
+          "name": "Koria",
+          "type": "Planet"
+        },
+        {
+          "symbol": "OE-UC",
+          "x": -17,
+          "y": -72,
+          "name": "Ucarro",
+          "type": "Planet"
+        },
+        {
+          "symbol": "OE-UC-AD",
+          "x": -15,
+          "y": -73,
+          "name": "Ado",
+          "type": "Moon"
+        },
+        {
+          "symbol": "OE-UC-OB",
+          "x": -17,
+          "y": -74,
+          "name": "Obo",
+          "type": "Moon"
+        },
+        {
+          "symbol": "OE-NY",
+          "x": 43,
+          "y": -46,
+          "name": "Nyon",
+          "type": "Asteroid"
+        },
+        {
+          "symbol": "OE-BO",
+          "x": -59,
+          "y": 60,
+          "name": "Bo",
+          "type": "Gas giant"
+        },
+        {
+          "symbol": "OE-W-XV",
+          "x": 5,
+          "y": -101,
+          "name": "Wormhole",
+          "type": "Wormhole"
+        }
+      ]
+    },
+    {
+      "name": "Xiav",
+      "symbol": "XV",
+      "planets": [
+        {
+          "symbol": "XV-BN",
+          "x": -20,
+          "y": 119,
+          "name": "Bear Nebula",
+          "type": "Nebula"
+        },
+        {
+          "symbol": "XV-ST",
+          "x": 19,
+          "y": -14,
+          "name": "Straxabos",
+          "type": "Planet"
+        },
+        {
+          "symbol": "XV-ST-BG",
+          "x": 20,
+          "y": -15,
+          "name": "Bragi",
+          "type": "Moon"
+        },
+        {
+          "symbol": "XV-XA",
+          "x": 12,
+          "y": -4,
+          "name": "Xamarin",
+          "type": "Planet"
+        },
+        {
+          "symbol": "XV-OS",
+          "x": 52,
+          "y": 3,
+          "name": "Osuhines",
+          "type": "Planet"
+        },
+        {
+          "symbol": "XV-SN",
+          "x": -38,
+          "y": 12,
+          "name": "Sinope",
+          "type": "Planet"
+        },
+        {
+          "symbol": "XV-CB",
+          "x": 80,
+          "y": -8,
+          "name": "Ciubus",
+          "type": "Planet"
+        },
+        {
+          "symbol": "XV-CB-NM",
+          "x": 79,
+          "y": -6,
+          "name": "Nami",
+          "type": "Moon"
+        },
+        {
+          "symbol": "XV-CB-IT",
+          "x": 83,
+          "y": -7,
+          "name": "Ito",
+          "type": "Moon"
+        },
+        {
+          "symbol": "XV-W-OE",
+          "x": -20,
+          "y": -99,
+          "name": "Wormhole",
+          "type": "Wormhole"
+        },
+        {
+          "symbol": "XV-W-ZY1",
+          "x": 75,
+          "y": -94,
+          "name": "Wormhole",
+          "type": "Wormhole"
+        }
+      ]
+    },
+    {
+      "name": "Zeon Y1",
+      "symbol": "ZY1",
+      "planets": [
+        {
+          "symbol": "ZY1-GG",
+          "x": -13,
+          "y": -1,
+          "name": "Grugutania",
+          "type": "Planet"
+        },
+        {
+          "symbol": "ZY1-GG-CY",
+          "x": -11,
+          "y": 1,
+          "name": "Cayama",
+          "type": "Moon"
+        },
+        {
+          "symbol": "ZY1-GG-LAO",
+          "x": -13,
+          "y": -3,
+          "name": "LAO",
+          "type": "Moon"
+        },
+        {
+          "symbol": "ZY1-GH",
+          "x": -24,
+          "y": 3,
+          "name": "Gehiri",
+          "type": "Planet"
+        },
+        {
+          "symbol": "ZY1-GH-MD",
+          "x": -23,
+          "y": 2,
+          "name": "Madalia",
+          "type": "Moon"
+        },
+        {
+          "symbol": "ZY1-GH-NT",
+          "x": -25,
+          "y": 1,
+          "name": "Nauter",
+          "type": "Moon"
+        },
+        {
+          "symbol": "ZY1-GH-HD",
+          "x": -20,
+          "y": 3,
+          "name": "Hudichi",
+          "type": "Moon"
+        },
+        {
+          "symbol": "ZY1-VZ",
+          "x": -1,
+          "y": -43,
+          "name": "Veazuno",
+          "type": "Gas giant"
+        },
+        {
+          "symbol": "ZY1-M57Z",
+          "x": 48,
+          "y": -56,
+          "name": "Milles 57Z",
+          "type": "Gas giant"
+        },
+        {
+          "symbol": "ZY1-T85",
+          "x": -39,
+          "y": 51,
+          "name": "Thiea 85M",
+          "type": "Asteroid"
+        }
+      ]
+    }
+  ]
+}
